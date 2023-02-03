@@ -41,7 +41,9 @@ p {
 .item-button {
   text-align: left;
   width: fit-content;
-  border-radius: 12px;
+  border-radius: 16px;
   background-color: #cdecfa;
+  border: black;
+  border-style: solid;
 }
 
